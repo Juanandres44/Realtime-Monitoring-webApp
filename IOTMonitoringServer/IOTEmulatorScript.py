@@ -27,7 +27,7 @@ import paho.mqtt.client as mqtt
 '''
 Dirección IP y puerto del servidor MQTT
 '''
-MQTT_HOST = "44.203.22.175"  # "ip.maquina.mqtt"
+MQTT_HOST = "44.192.108.56"  # "ip.maquina.mqtt"
 MQTT_PORT = 8082
 
 '''
